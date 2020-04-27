@@ -17,6 +17,22 @@ community-1.5  - 开发社区首页
 
 community-1.6 - 项目调用技巧
 
+community-2.1 - 发送邮件
+
+community-2.2 - 开发注册功能
+
+community-2.3 - 会话管理
+
+community-2.4 - 生成验证码
+
+community-2.5 - 开发登录、退出功能
+
+community-2.6 - 显示登录信息
+
+community-2.7 - 账号设置
+
+community-2.8 - 检查登录状态
+
 ...
 
 my-community是我的模仿练习的
