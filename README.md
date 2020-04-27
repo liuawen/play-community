@@ -3,7 +3,9 @@
 
 一个讨论交流社区 
 
-素材和源码
+资料都在素材和源码这个文件夹里
+
+my-community是我练习模仿的
 
 community-1.1 - Spring Boot 入门 环境搭建
 
